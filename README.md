@@ -1,12 +1,13 @@
 # Graph Signal Processing to classify multidimensional data
 
-This repository contains all the files regarding our 7th-semester project on graph signal processing, which is used for classifying multidimensional data.
+Research Project on Graph Signal Processing.
+A model which classifies complex multidimensional data.
 
-Team members: 
+Team Guide:
+Dr. C. Narendra Babu.
+
+Team Members: 
 Aishwary Anurag,
 Pratistha Gaur,
 Prrathyush Kedeelaya.
-
-Team guide:
-Dr. C. Narendra Babu.
 
