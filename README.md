@@ -1,4 +1,4 @@
-# Graph Signal Processing
+# Graph Signal Processing to classify multidimensional data
 
 This repository contains all the files regarding our 7th semester project on graph signal processing to classify multidimensional data.
 
