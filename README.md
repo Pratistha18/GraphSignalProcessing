@@ -8,6 +8,6 @@ Dr. C. Narendra Babu.
 
 Team Members: 
 Aishwary Anurag,
-Pratistha Gaur,
-Prrathyush Kedeelaya.
+Prrathyush Kedeelaya,
+Pratistha Gaur.
 
